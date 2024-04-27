@@ -10,7 +10,7 @@ public class casosIlimitados {
 
             //your code here
         }
-
+        in.close();
     }
 
 }

@@ -12,7 +12,10 @@ public class Ncasos {
 
         numCasos = in.nextInt();
         for (int i = 0; i < numCasos; i++) {
+
+            //your code here
         }
+        in.close();
     }
 
 }
