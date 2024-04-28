@@ -9,9 +9,9 @@ Este repositorio contiene una colección de soluciones en *java* a problemas de 
 
 
 ## Tabla de problemas resueltos (310 problemas)
-|Nº de problema  | Nombre del problema| Solución
+|#  | titulo| Solución | Status
 |--|--|--|
-| 103 | [Problemas de Herencia](https://www.aceptaelreto.com/problem/statement.php?id=103) | [P103.java](./src/P103.java "P103.java")| | |
+| 103 | [Problemas de Herencia](https://www.aceptaelreto.com/problem/statement.php?id=103) | [P103.java](./src/P103.java "P103.java") | 👌| | |
 | 105 | [Ventas](https://www.aceptaelreto.com/problem/statement.php?id=105) | [P105.java](./src/P105.java "P105.java")| | |
 | 108 | [De nuevo en el bar de Javier](https://www.aceptaelreto.com/problem/statement.php?id=108) | [P108.java](./src/P108.java "P108.java")| | |
 | 141 | [Paréntesis balanceados](https://www.aceptaelreto.com/problem/statement.php?id=141) | [P141.java](./src/P141.java "P141.java")| | |
