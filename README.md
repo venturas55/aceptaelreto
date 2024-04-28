@@ -9,7 +9,7 @@ Este repositorio contiene una colección de soluciones en *java* a problemas de 
 
 
 ## Tabla de problemas resueltos
-|#  | titulo| Solución | Status
+| num  | titulo| Solución | Status
 |--|--|--|
    | Al principio de la ejecución el programa recibe el número de casos de prueba que se deben procesar, seguido de los casos propiamente dichos.| [Ncasos.java](./src/Ncasos.java)| | |
 |103|[103 - Problemas de Herencia](https://www.aceptaelreto.com/problem/statement.php?id=103) | [103.java](./src/103.java) '103.java' |👌 |||
