@@ -8,7 +8,7 @@ Este repositorio contiene una colección de soluciones en *java* a problemas de 
 
 
 
-## Tabla de problemas resueltos (310 problemas)
+## Tabla de problemas resueltos
 |#  | titulo| Solución | Status
 |--|--|--|
 | 103 | [Problemas de Herencia](https://www.aceptaelreto.com/problem/statement.php?id=103) | [P103.java](./src/P103.java "P103.java") | 👌| | |
