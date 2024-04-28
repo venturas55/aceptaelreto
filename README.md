@@ -1,12 +1,10 @@
-## Contenido del repositorio y usuario de Acepta el Reto
+## Contenido del repositorio
 Este repositorio contiene una colección de soluciones en *java* a problemas de programación planteados en la web [Acepta el Reto](https://www.aceptaelreto.com/).  El juez automático querrá probar la solución con muchos casos de prueba, no solo con unos pocos. Para hacerlo sin tener que ejecutar la solución desde cero cada vez hay tres alternativas o esquemas de la entrada:
    | Descripcion | Plantilla |
    |--|--|
    | Al principio de la ejecución el programa recibe el número de casos de prueba que se deben procesar, seguido de los casos propiamente dichos.| [Ncasos.java](./src/Ncasos.java)| | |
    | El programa va leyendo casos de prueba hasta que encuentra uno especial que marca el final.| [casoEspecial.java](./src/casoEspecial.java)| | |
    | El programa va leyendo casos de prueba hasta que se alcanza el final de la entrada (no quedan más datos).| [casosIlimitados.java](./src/casosIlimitados.java)| | |
-
-
 
 ## Tabla de problemas resueltos
 | #  | titulo| Solución | Status |
@@ -99,3 +97,5 @@ Este repositorio contiene una colección de soluciones en *java* a problemas de 
 |720|[ Ordenando al estilo Chuck Norris](https://www.aceptaelreto.com/problem/statement.php?id=720) | [P720.java](./src/P720.java)  |🪳 |||
 |721|[ Bolas triangulares](https://www.aceptaelreto.com/problem/statement.php?id=721) | [P721.java](./src/P721.java)  |👌 |||
 |722|[ Tú uno y yo dos](https://www.aceptaelreto.com/problem/statement.php?id=722) | [P722.java](./src/P722.java)  |🪳 |||
+
+Concatenacion para excel: =CONCATENAR("|";A3;"|[";C3;"](https://www.aceptaelreto.com/problem/statement.php?id=";A3;") | [P";A3;".java](./src/P";A3;".java) ";" |";B3;" |||")

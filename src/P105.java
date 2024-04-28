@@ -39,7 +39,7 @@ public class P105 {
     public static int maximo(float[] array) {
         float maximo = array[0];
         int index=0;
-        for (int i = 1; i < array.length - 1; i++) {
+        for (int i = 1; i < array.length ; i++) {
             if (array[i] > maximo) {
                 maximo = array[i];
                 index=i;
@@ -53,7 +53,7 @@ public class P105 {
     public static int minimo(float[] array) {
         float minimo = array[0];
         int index=0;
-        for (int i = 1; i < array.length - 1; i++) {
+        for (int i = 1; i < array.length ; i++) {
             if (array[i] < minimo) {
                 minimo = array[i];
                 index=i;
