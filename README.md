@@ -11,8 +11,7 @@ Este repositorio contiene una colección de soluciones en *java* a problemas de 
 ## Tabla de problemas resueltos
 | num  | titulo| Solución | Status |
 |--|--|--|--|
-   | Al principio de la ejecución el programa recibe el número de casos de prueba que se deben procesar, seguido de los casos propiamente dichos.| [Ncasos.java](./src/Ncasos.java)| | |
-|103|[103 - Problemas de Herencia](https://www.aceptaelreto.com/problem/statement.php?id=103) | [103.java](./src/103.java) '103.java' |👌 |||
+|103|[103 - Problemas de Herencia](https://www.aceptaelreto.com/problem/statement.php?id=103) | [103.java](./src/103.java)  |👌 |||
 |105|[105 - Ventas](https://www.aceptaelreto.com/problem/statement.php?id=105) | [105.java](./src/105.java) '105.java' |🪳 |||
 |108|[108 - De nuevo en el bar de Javier](https://www.aceptaelreto.com/problem/statement.php?id=108) | [108.java](./src/108.java) '108.java' |🪳 |||
 |117|[117 - La fiesta aburrida](https://www.aceptaelreto.com/problem/statement.php?id=117) | [117.java](./src/117.java) '117.java' |👌 |||
