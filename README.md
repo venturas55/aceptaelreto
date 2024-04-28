@@ -2,9 +2,9 @@
 Este repositorio contiene una colección de soluciones en *java* a problemas de programación planteados en la web [Acepta el Reto](https://www.aceptaelreto.com/).  El juez automático querrá probar la solución con muchos casos de prueba, no solo con unos pocos. Para hacerlo sin tener que ejecutar la solución desde cero cada vez hay tres alternativas o esquemas de la entrada:
    | Descripcion | Plantilla |
    |--|--|
-   | Al principio de la ejecución el programa recibe el número de casos de prueba que se deben procesar, seguido de los casos propiamente dichos.| [Ncasos.java](./Ncasos.java)| | |
-   | El programa va leyendo casos de prueba hasta que encuentra uno especial que marca el final.| [casoEspecial.java](./casoEspecial.java)| | |
-   | El programa va leyendo casos de prueba hasta que se alcanza el final de la entrada (no quedan más datos).| [casosIlimitados.java](./casosIlimitados.java)| | |
+   | Al principio de la ejecución el programa recibe el número de casos de prueba que se deben procesar, seguido de los casos propiamente dichos.| [Ncasos.java](./src/Ncasos.java)| | |
+   | El programa va leyendo casos de prueba hasta que encuentra uno especial que marca el final.| [casoEspecial.java](./src/casoEspecial.java)| | |
+   | El programa va leyendo casos de prueba hasta que se alcanza el final de la entrada (no quedan más datos).| [casosIlimitados.java](./src/casosIlimitados.java)| | |
 
 
 
