@@ -11,23 +11,23 @@ Este repositorio contiene una colección de soluciones en *java* a problemas de 
 ## Tabla de problemas resueltos
 |#  | titulo| Solución | Status
 |--|--|--|
-|103|[103 - Problemas de Herencia](https://www.aceptaelreto.com/problem/statement.php?id=103) | [103.java](./src/103.java '103.java') |👌 |||
-|105|[105 - Ventas](https://www.aceptaelreto.com/problem/statement.php?id=105) | [105.java](./src/105.java '105.java') |🪳 |||
-|108|[108 - De nuevo en el bar de Javier](https://www.aceptaelreto.com/problem/statement.php?id=108) | [108.java](./src/108.java '108.java') |🪳 |||
-|117|[117 - La fiesta aburrida](https://www.aceptaelreto.com/problem/statement.php?id=117) | [117.java](./src/117.java '117.java') |👌 |||
-|153|[153 - Reloj a través del espejo](https://www.aceptaelreto.com/problem/statement.php?id=153) | [153.java](./src/153.java '153.java') |👌 |||
-|221|[221 - Entrando al cine](https://www.aceptaelreto.com/problem/statement.php?id=221) | [221.java](./src/221.java '221.java') |🪳 |||
-|347|[347 - Haciendo pajaritas de papel](https://www.aceptaelreto.com/problem/statement.php?id=347) | [347.java](./src/347.java '347.java') |👌 |||
-|362|[362 - El día de Navidad](https://www.aceptaelreto.com/problem/statement.php?id=362) | [362.java](./src/362.java '362.java') |👌 |||
-|368|[368 - Cociendo huevos](https://www.aceptaelreto.com/problem/statement.php?id=368) | [368.java](./src/368.java '368.java') |👌 |||
-|369|[369 - Contando en la arena](https://www.aceptaelreto.com/problem/statement.php?id=369) | [369.java](./src/369.java '369.java') |👌 |||
-|405|[405 - Imprimiendo páginas sueltas](https://www.aceptaelreto.com/problem/statement.php?id=405) | [405.java](./src/405.java '405.java') |👌 |||
-|425|[425 - Aibofobia](https://www.aceptaelreto.com/problem/statement.php?id=425) | [425.java](./src/425.java '425.java') |🪳 |||
-|427|[427 - Yo soy tu...](https://www.aceptaelreto.com/problem/statement.php?id=427) | [427.java](./src/427.java '427.java') |👌 |||
-|428|[428 - Tendencia al lado oscuro](https://www.aceptaelreto.com/problem/statement.php?id=428) | [428.java](./src/428.java '428.java') |👌 |||
-|429|[429 - Organizando los hangares](https://www.aceptaelreto.com/problem/statement.php?id=429) | [429.java](./src/429.java '429.java') |👌 |||
-|430|[430 - Las pruebas del maestro Yoda](https://www.aceptaelreto.com/problem/statement.php?id=430) | [430.java](./src/430.java '430.java') |👌 |||
-|431|[431 - Genética Jedi](https://www.aceptaelreto.com/problem/statement.php?id=431) | [431.java](./src/431.java '431.java') |👌 |||
+| 103 | [103 - Problemas de Herencia](https://www.aceptaelreto.com/problem/statement.php?id=103) | [103.java](./src/103.java '103.java') |👌|||
+| 105|[105 - Ventas](https://www.aceptaelreto.com/problem/statement.php?id=105) | [105.java](./src/105.java '105.java') |🪳 |||
+| 108|[108 - De nuevo en el bar de Javier](https://www.aceptaelreto.com/problem/statement.php?id=108) | [108.java](./src/108.java '108.java') |🪳 |||
+| 117|[117 - La fiesta aburrida](https://www.aceptaelreto.com/problem/statement.php?id=117) | [117.java](./src/117.java '117.java') |👌 |||
+| 153|[153 - Reloj a través del espejo](https://www.aceptaelreto.com/problem/statement.php?id=153) | [153.java](./src/153.java '153.java') |👌 |||
+| 221|[221 - Entrando al cine](https://www.aceptaelreto.com/problem/statement.php?id=221) | [221.java](./src/221.java '221.java') |🪳 |||
+| 347|[347 - Haciendo pajaritas de papel](https://www.aceptaelreto.com/problem/statement.php?id=347) | [347.java](./src/347.java '347.java') |👌 |||
+| 362|[362 - El día de Navidad](https://www.aceptaelreto.com/problem/statement.php?id=362) | [362.java](./src/362.java '362.java') |👌 |||
+| 368|[368 - Cociendo huevos](https://www.aceptaelreto.com/problem/statement.php?id=368) | [368.java](./src/368.java '368.java') |👌 |||
+| 369|[369 - Contando en la arena](https://www.aceptaelreto.com/problem/statement.php?id=369) | [369.java](./src/369.java '369.java') |👌 |||
+| 405|[405 - Imprimiendo páginas sueltas](https://www.aceptaelreto.com/problem/statement.php?id=405) | [405.java](./src/405.java '405.java') |👌 |||
+| 425|[425 - Aibofobia](https://www.aceptaelreto.com/problem/statement.php?id=425) | [425.java](./src/425.java '425.java') |🪳 |||
+| 427|[427 - Yo soy tu...](https://www.aceptaelreto.com/problem/statement.php?id=427) | [427.java](./src/427.java '427.java') |👌 |||
+| 428|[428 - Tendencia al lado oscuro](https://www.aceptaelreto.com/problem/statement.php?id=428) | [428.java](./src/428.java '428.java') |👌 |||
+| 429|[429 - Organizando los hangares](https://www.aceptaelreto.com/problem/statement.php?id=429) | [429.java](./src/429.java '429.java') |👌 |||
+| 430|[430 - Las pruebas del maestro Yoda](https://www.aceptaelreto.com/problem/statement.php?id=430) | [430.java](./src/430.java '430.java') |👌 |||
+| 431|[431 - Genética Jedi](https://www.aceptaelreto.com/problem/statement.php?id=431) | [431.java](./src/431.java '431.java') |👌 |||
 |433|[433 - Racimos de uvas](https://www.aceptaelreto.com/problem/statement.php?id=433) | [433.java](./src/433.java '433.java') |👌 |||
 |434|[434 - Romance en el palomar](https://www.aceptaelreto.com/problem/statement.php?id=434) | [434.java](./src/434.java '434.java') |👌 |||
 |435|[435 - El Pijote](https://www.aceptaelreto.com/problem/statement.php?id=435) | [435.java](./src/435.java '435.java') |👌 |||
