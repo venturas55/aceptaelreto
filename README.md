@@ -15,6 +15,7 @@ Este repositorio contiene una colección de soluciones en *java* a problemas de 
 |117|[ La fiesta aburrida](https://www.aceptaelreto.com/problem/statement.php?id=117) | [P117.java](./src/P117.java)  |👌 |||
 |153|[ Reloj a través del espejo](https://www.aceptaelreto.com/problem/statement.php?id=153) | [P153.java](./src/P153.java)  |👌 |||
 |221|[ Entrando al cine](https://www.aceptaelreto.com/problem/statement.php?id=221) | [P221.java](./src/P221.java)  |🪳 |||
+|340|[ Cuadrados con cerillas](https://www.aceptaelreto.com/problem/statement.php?id=340) | [P340.java](./src/P340.java)  |👌 |||
 |347|[ Haciendo pajaritas de papel](https://www.aceptaelreto.com/problem/statement.php?id=347) | [P347.java](./src/P347.java)  |👌 |||
 |362|[ El día de Navidad](https://www.aceptaelreto.com/problem/statement.php?id=362) | [P362.java](./src/P362.java)  |👌 |||
 |368|[ Cociendo huevos](https://www.aceptaelreto.com/problem/statement.php?id=368) | [P368.java](./src/P368.java)  |👌 |||
